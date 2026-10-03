@@ -6,7 +6,7 @@ Repository ini dibuat sebagai dokumentasi pembelajaran sekaligus tempat menyimpa
 
 ## 📚 Materi
 
-Beberapa materi yang dipelajari dalam repository ini meliputi:
+Beberapa materi yang dipelajari dalam repository ini meliputi :
 
 * Input dan Output
 * Tipe Data
@@ -36,13 +36,13 @@ Asprak-Algoritma-Program/
 
 ## 💻 Bahasa Pemrograman
 
-Repository ini menggunakan:
+Repository ini menggunakan :
 
 * **Go (Golang)**
 
 ## 🎯 Tujuan
 
-Repository ini dibuat untuk:
+Repository ini dibuat untuk :
 
 1. Mendokumentasikan proses pembelajaran Algoritma dan Pemrograman.
 2. Menyimpan hasil latihan praktikum.
