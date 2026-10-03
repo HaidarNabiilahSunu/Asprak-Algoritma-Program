@@ -32,45 +32,45 @@ Modul 2 membahas konsep paling dasar dalam pemrograman Go, yaitu instruksi masuk
   * Penggunaan operator aritmatika, penggabungan string (`+`), bitwise (`&^`, `<<`, `>>`), komparasi, logika boolean (`&&`, `||`, `!`), serta operator pointer/memori (`&` dan `*`) [cite: 4].
   * Deklarasi variabel (`var a tipe` atau `a := nilai_awal`) serta pemahaman nilai bawaan (*default value*) untuk variabel yang tidak diinisialisasi [cite: 5, 6].
 * **⚡ Konstanta Simbolik :**
-  * Deklarasi konstanta bernilai tetap menggunakan kata kunci `const`[cite: 7].
+  * Deklarasi konstanta bernilai tetap menggunakan kata kunci `const` [cite: 7].
 * **🔤 Tipe Data Karakter :**
-  * Penggunaan tipe data `byte` (uint8) dan `rune` (int32) berdasar acuan tabel ASCII/UTF-8 dan UTF-16[cite: 7, 8].
+  * Penggunaan tipe data `byte` (uint8) dan `rune` (int32) berdasar acuan tabel ASCII/UTF-8 dan UTF-16 [cite: 7, 8].
 
 #### 🎯 Contoh Soal & Pembahasan Modul 2 :
-1. **Penjumlahan 5 Bilangan Bulat (`penjumlahan.go`) :** Membaca lima masukan bilangan bulat dan menampilkan hasil jumlah totalnya[cite: 8].
-2. **Evaluasi Fungsi Matematika :** Menghitung nilai fungsi $f(x) = \frac{2}{x+5} + 5$ dengan tipe data riil[cite: 9].
-3. **Konversi & Pergeseran ASCII (`ascii.go`) :** Membaca masukan integer untuk dicetak sebagai karakter ASCII serta melakukan pergeseran nilai karakter[cite: 9, 10].
+1. **Penjumlahan 5 Bilangan Bulat (`penjumlahan.go`) :** Membaca lima masukan bilangan bulat dan menampilkan hasil jumlah totalnya [cite: 8].
+2. **Evaluasi Fungsi Matematika :** Menghitung nilai fungsi $f(x) = \frac{2}{x+5} + 5$ dengan tipe data riil [cite: 9].
+3. **Konversi & Pergeseran ASCII (`ascii.go`) :** Membaca masukan integer untuk dicetak sebagai karakter ASCII serta melakukan pergeseran nilai karakter [cite: 9, 10].
 
 #### 📂 Soal Latihan Modul 2 :
-1. **Penelusuran Pertukaran Nilai String :** Mengamati dan menganalisis proses pertukaran nilai tiga variabel string (*swapping*)[cite: 10].
-2. **Resume Biodata Mahasiswa :** Membaca nama, NIM, dan kelas mahasiswa lalu menampilkan format resume singkat[cite: 11].
-3. **Perhitungan Luas Lingkaran :** Menghitung luas lingkaran berdasarkan masukan jari-jari $r$ bertipe riil[cite: 11].
-4. **Konversi Suhu Fahrenheit ke Celcius :** Menghitung konversi suhu dari Fahrenheit ke Celcius dengan rumus $C = (F - 32) \times \frac{5}{9}$[cite: 11].
+1. **Penelusuran Pertukaran Nilai String :** Mengamati dan menganalisis proses pertukaran nilai tiga variabel string (*swapping*) [cite: 10].
+2. **Resume Biodata Mahasiswa :** Membaca nama, NIM, dan kelas mahasiswa lalu menampilkan format resume singkat [cite: 11].
+3. **Perhitungan Luas Lingkaran :** Menghitung luas lingkaran berdasarkan masukan jari-jari $r$ bertipe riil [cite: 11].
+4. **Konversi Suhu Fahrenheit ke Celcius :** Menghitung konversi suhu dari Fahrenheit ke Celcius dengan rumus $C = (F - 32) \times \frac{5}{9}$ [cite: 11].
 
 ---
 
 ### 📖 Modul 3 : Pendalaman I/O, Tipe Data & Variabel (Latihan 1)
-Modul 3 merupakan pendalaman dari materi Modul 2 dengan fokus khusus pada *Integer Division*, operasi *Modulo*, serta teknik *Casting* atau konversi tipe data[cite: 12, 14, 15].
+Modul 3 merupakan pendalaman dari materi Modul 2 dengan fokus khusus pada *Integer Division*, operasi *Modulo*, serta teknik *Casting* atau konversi tipe data [cite: 12, 14, 15].
 
 #### Topik Utama :
 * **🔢 Integer Division (`div`) & Modulo (`mod`) :**
-  * Operasi pembagian integer yang mengabaikan bagian pecahan (*floating point*)[cite: 14].
-  * Operasi modulo (`%`) untuk memperoleh sisa pembagian integer[cite: 14].
-  * Formula hubungan `dividend = quotient x divisor + remainder` serta penerapan pola `div` dan `mod` untuk isolasi digit bilangan[cite: 14, 15].
+  * Operasi pembagian integer yang mengabaikan bagian pecahan (*floating point*) [cite: 14].
+  * Operasi modulo (`%`) untuk memperoleh sisa pembagian integer [cite: 14].
+  * Formula hubungan `dividend = quotient x divisor + remainder` serta penerapan pola `div` dan `mod` untuk isolasi digit bilangan [cite: 14, 15].
 * **🔄 Casting & Konversi Tipe Data :**
-  * Konversi eksplisit antar tipe data numerik (seperti `int(float_val)`)[cite: 15].
-  * Penggunaan fungsi dari paket `strconv` (`strconv.Atoi` dan `strconv.Itoa`) untuk konversi antara `string` dan `int`[cite: 15].
+  * Konversi eksplisit antar tipe data numerik (seperti `int(float_val)`) [cite: 15].
+  * Penggunaan fungsi dari paket `strconv` (`strconv.Atoi` dan `strconv.Itoa`) untuk konversi antara `string` dan `int` [cite: 15].
 
 #### 🎯 Contoh Soal & Pembahasan Modul  3 :
-1. **Perhitungan Volume Kubus :** Menghitung volume kubus ($S^3$) berdasarkan masukan panjang sisi[cite: 16].
-2. **Perhitungan Luas Segitiga :** Menghitung luas segitiga ($0.5 \times \text{alas} \times \text{tinggi}$) dari masukan alas dan tinggi[cite: 16, 17].
-3. **Konversi Mata Uang (IDR ke USD) :** Menghitung konversi mata uang Rupiah ke Dolar AS dengan nilai kurs 15.000 IDR / USD[cite: 17, 18].
+1. **Perhitungan Volume Kubus :** Menghitung volume kubus ($S^3$) berdasarkan masukan panjang sisi [cite: 16].
+2. **Perhitungan Luas Segitiga :** Menghitung luas segitiga ($0.5 \times \text{alas} \times \text{tinggi}$) dari masukan alas dan tinggi [cite: 16, 17].
+3. **Konversi Mata Uang (IDR ke USD) :** Menghitung konversi mata uang Rupiah ke Dolar AS dengan nilai kurs 15.000 IDR / USD [cite: 17, 18].
 
 #### 📂 Soal Latihan Modul 3 :
-1. **Pencarian Nilai $x$ dari Fungsi $f(x)$ :** Menentukan nilai $x$ apabila diketahui nilai $f(x)$ pada persamaan $f(x) = \frac{2}{x+5} + 5$[cite: 19].
-2. **Perhitungan Volume dan Luas Permukaan Bola :** Menghitung volume bola ($\frac{4}{3}\pi r^3$) dan luas kulit bola ($4\pi r^2$) dari masukan jari-jari $r$[cite: 19].
-3. **Pengecekan Tahun Kabisat :** Menentukan apakah suatu tahun merupakan tahun kabisat (habis dibagi 400 atau habis dibagi 4 tetapi tidak habis dibagi 100) dan menghasilkan nilai keluaran boolean (`true` / `false`)[cite: 19].
-4. **Konversi Temperatur Celcius :** Menghitung konversi temperatur dari Celcius ke satuan Fahrenheit, Reamur, dan Kelvin[cite: 20].
+1. **Pencarian Nilai $x$ dari Fungsi $f(x)$ :** Menentukan nilai $x$ apabila diketahui nilai $f(x)$ pada persamaan $f(x) = \frac{2}{x+5} + 5$ [cite: 19].
+2. **Perhitungan Volume dan Luas Permukaan Bola :** Menghitung volume bola ($\frac{4}{3}\pi r^3$) dan luas kulit bola ($4\pi r^2$) dari masukan jari-jari $r$ [cite: 19].
+3. **Pengecekan Tahun Kabisat :** Menentukan apakah suatu tahun merupakan tahun kabisat (habis dibagi 400 atau habis dibagi 4 tetapi tidak habis dibagi 100) dan menghasilkan nilai keluaran boolean (`true` / `false`) [cite: 19].
+4. **Konversi Temperatur Celcius :** Menghitung konversi temperatur dari Celcius ke satuan Fahrenheit, Reamur, dan Kelvin [cite: 20].
 
 ---
 
