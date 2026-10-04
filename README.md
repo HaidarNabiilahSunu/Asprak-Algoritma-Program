@@ -54,7 +54,7 @@ Repository ini dibuat untuk :
 **Haidar Nabiilah Sunu**
 
 S1 Teknik Informatika
-Telkom University
+Telkom University 
 
 GitHub: [HaidarNabiilahSunu](https://github.com/HaidarNabiilahSunu)
 
