@@ -6,7 +6,7 @@ Repositori ini berisi materi praktikum, contoh program, serta penyelesaian soal 
 
 ## 🏛️ Informasi Akademik & Institusi
 
-* **Mata Kuliah** : Algoritma dan Pemrograman 1[cite: 1, 12, 13]
+* **Mata Kuliah** : Algoritma dan Pemrograman 1 [cite: 1, 12, 13]
 * **Program Studi :** S1 Informatika [cite: 12, 13]
 * **Fakultas :** Fakultas Informatika / School of Computing [cite: 12, 13]
 * **Institusi :** Universitas Telkom [cite: 12, 13]
