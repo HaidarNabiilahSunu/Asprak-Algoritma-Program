@@ -59,7 +59,7 @@ Repository ini dibuat untuk :
 S1 Teknik Informatika
 Telkom University 
 
-GitHub: [HaidarNabiilahSunu](https://github.com/HaidarNabiilahSunu)
+GitHub : [HaidarNabiilahSunu](https://github.com/HaidarNabiilahSunu)
 
 ---
 
