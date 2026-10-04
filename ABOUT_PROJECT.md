@@ -1,6 +1,6 @@
 # 📘 Repository Asprak-Algoritma-Program
 
-Repositori ini berisi materi praktikum, contoh program, serta penyelesaian soal latihan untuk mata kuliah **Algoritma dan Pemrograman 1** menggunakan bahasa pemrograman **Go (Golang)** [cite: 1, 12]. Repositori ini disusun untuk mendukung kegiatan praktikum mahasiswa Program Studi S1 Informatika, Universitas Telkom [cite: 12, 13].
+Repositori ini berisi materi praktikum, contoh program, serta penyelesaian soal latihan untuk mata kuliah **Algoritma dan Pemrograman 1** menggunakan bahasa pemrograman **Go (Golang)** [cite: 1, 12]. Repositori ini disusun untuk mendukung kegiatan praktikum mahasiswa Program Studi S1 Informatika, Universitas Telkom [cite: 12, 13]. 
 
 ---
 
