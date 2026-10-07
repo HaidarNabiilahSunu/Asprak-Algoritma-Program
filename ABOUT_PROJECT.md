@@ -74,6 +74,43 @@ Modul 3 merupakan pendalaman dari materi Modul 2 dengan fokus khusus pada *Integ
 
 ---
 
+### 📖 Modul 4 : I/O, Tipe Data & Variabel (Latihan 2)
+
+Modul 4 merupakan kelanjutan dari modul sebelumnya dengan fokus pada pendalaman materi **I/O, tipe data, dan variabel** melalui berbagai latihan pemrograman menggunakan bahasa Go.
+
+#### Topik Utama :
+
+* **🔢 Input & Output (I/O) :**
+
+  * Menerima masukan berupa bilangan integer maupun bilangan riil menggunakan `fmt.Scan`.
+  * Menampilkan hasil perhitungan menggunakan `fmt.Println` dan `fmt.Printf`.
+  * Mengatur format keluaran sesuai dengan kebutuhan program.
+
+* **🔄 Tipe Data & Variabel :**
+
+  * Penggunaan variabel dengan tipe data `int` dan `float64`.
+  * Melakukan operasi aritmatika berdasarkan data yang diberikan sebagai input.
+  * Menggunakan variabel untuk menyimpan nilai sementara dan hasil perhitungan.
+
+* **➗ Operasi Aritmatika :**
+
+  * Penggunaan pembagian dan modulo untuk mengolah nilai input.
+  * Penerapan operasi matematika dalam perhitungan seperti konversi waktu dan perhitungan BMI.
+
+#### 🎯 Contoh Soal & Pembahasan Modul 4 :
+
+1. **Konversi Detik ke Jam, Menit & Detik :** Mengubah masukan berupa jumlah detik menjadi satuan jam, menit, dan detik menggunakan operasi pembagian dan modulo.
+2. **Pengecekan Urutan Digit Bilangan :** Menentukan apakah setiap digit pada bilangan tiga digit tersusun secara membesar dan menghasilkan keluaran boolean `true` atau `false`.
+3. **Perhitungan BMI :** Menghitung nilai BMI berdasarkan berat badan dalam kilogram dan tinggi badan dalam meter dengan rumus berat badan dibagi kuadrat tinggi badan.
+
+#### 📂 Soal Latihan Modul 4 :
+
+1. **Perhitungan Harga Setelah Diskon :** Menghitung total belanja akhir berdasarkan total belanja awal dan persentase diskon yang diberikan.
+2. **Menghitung Berat Badan dari BMI :** Menentukan berat badan seseorang berdasarkan nilai BMI dan tinggi badan dalam satuan meter.
+3. **Menentukan Sisi Terpanjang Segitiga :** Menghitung panjang sisi-sisi segitiga berdasarkan koordinat tiga titik pada sistem kartesius 2 dimensi menggunakan teorema Pythagoras, kemudian menentukan sisi yang paling panjang.
+
+---
+
 ## 🛠️ Cara Menjalankan Program Go
 
 Pastikan lingkungan pemrogranan Go telah terpasang pada komputer Anda[cite: 2, 8].
