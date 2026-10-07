@@ -18,6 +18,9 @@ Beberapa materi yang dipelajari dalam repository ini meliputi :
 * Percabangan
 * Perulangan
 * Penyelesaian soal algoritma dan pemrograman
+* Konversi tipe data
+* Perhitungan menggunakan data input
+* Menampilkan hasil dengan format tertentu
 
 ## 📂 Struktur Repository
 
@@ -29,6 +32,9 @@ Asprak-Algoritma-Program/
 │
 ├── Modul_03/
 │   └── Materi dan latihan Modul 03
+│
+├── Modul_04/
+│   └── Materi dan latihan Modul 04
 │
 ├── Modul_Praktikum/
 │   └── Tugas Pendahuluan, Tugas Terbimbing, dan Tugas Mandiri Modul Praktikum
