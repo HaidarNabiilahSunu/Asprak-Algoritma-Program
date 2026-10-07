@@ -17,10 +17,10 @@ Beberapa materi yang dipelajari dalam repository ini meliputi :
 * Casting / Type Conversion
 * Percabangan
 * Perulangan
-* Penyelesaian soal algoritma dan pemrograman
-* Konversi tipe data
-* Perhitungan menggunakan data input
-* Menampilkan hasil dengan format tertentu
+* Penyelesaian Soal Algoritma dan Pemrograman
+* Konversi Tipe Data
+* Perhitungan Menggunakan Data Input
+* Menampilkan Hasil dengan Format Tertentu
 
 ## 📂 Struktur Repository
 
