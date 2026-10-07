@@ -37,7 +37,10 @@ Asprak-Algoritma-Program/
 │   └── Materi dan latihan Modul 04
 │
 ├── Modul_Praktikum/
-│   └── Tugas Pendahuluan, Tugas Terbimbing, dan Tugas Mandiri Modul Praktikum
+│   ├── Praktikum_01
+|   |    └── Tugas Pendahuluan, Tugas Terbimbing, dan Tugas Mandiri Modul Praktikum
+│   └── Praktikum_02
+|        └── Tugas Pendahuluan, Tugas Terbimbing, dan Tugas Mandiri Modul Praktikum
 │
 ├── ABOUT_PROJECT.md
 └── README.md
