@@ -81,19 +81,16 @@ Modul 4 merupakan kelanjutan dari modul sebelumnya dengan fokus pada pendalaman 
 #### Topik Utama :
 
 * **📥📤 Input & Output (I/O) :**
-
   * Menerima masukan berupa bilangan integer maupun bilangan riil menggunakan `fmt.Scan`.
   * Menampilkan hasil perhitungan menggunakan `fmt.Println` dan `fmt.Printf`.
   * Mengatur format keluaran sesuai dengan kebutuhan program.
 
 * **🧠 Tipe Data & Variabel :**
-
   * Penggunaan variabel dengan tipe data `int` dan `float64`.
   * Melakukan operasi aritmatika berdasarkan data yang diberikan sebagai input.
   * Menggunakan variabel untuk menyimpan nilai sementara dan hasil perhitungan.
 
 * **➗ Operasi Aritmatika :**
-
   * Penggunaan pembagian dan modulo untuk mengolah nilai input.
   * Penerapan operasi matematika dalam perhitungan seperti konversi waktu dan perhitungan BMI.
 
