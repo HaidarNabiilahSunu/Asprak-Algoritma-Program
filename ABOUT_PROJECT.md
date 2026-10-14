@@ -111,9 +111,46 @@ Modul 4 merupakan kelanjutan dari modul sebelumnya dengan fokus pada pendalaman 
 
 ---
 
+### 📖 Modul 5 & 6 : Perulangan Berdasarkan Iterasi
+
+Modul 5 & 6 membahas konsep *Perulangan (Looping)* dalam Algoritma dan Pemrograman 1, dengan fokus pada penggunaan *For-Loop* untuk menjalankan instruksi secara berulang berdasarkan jumlah iterasi yang telah diketahui di awal [cite: 5, 6].
+
+#### Topik Utama :
+* **🔁 Perulangan (*Looping*) :**
+  * Memahami perbedaan algoritma tanpa perulangan dan dengan perulangan [cite: 3].
+  * Menggunakan perulangan untuk menjalankan instruksi secara berulang hingga batas tertentu [cite: 3].
+* **🔢 Perulangan Berdasarkan Iterasi (*For-Loop*) :**
+  * Digunakan untuk menyelesaikan kasus dengan jumlah iterasi yang diketahui di awal [cite: 5].
+  * Menggunakan variabel bertipe `integer` untuk menampung nilai iterasi, dengan variabel `init` sebagai nilai awal dan `end` sebagai nilai akhir [cite: 5].
+  * Jumlah iterasi dihitung menggunakan rumus `end - init + 1`, dengan nilai iterasi bertambah satu pada setiap pengulangan [cite: 5].
+* **💻 Implementasi For-Loop dalam Go :**
+  * Menggunakan struktur `for` untuk melakukan perulangan dari nilai awal hingga nilai akhir [cite: 8].
+  * Menggunakan `fmt.Scan` untuk menerima masukan dan `fmt.Printf` untuk menampilkan keluaran [cite: 8].
+  * Menerapkan perulangan untuk mengolah data dan melakukan perhitungan secara berulang.
+
+#### 🎯 Contoh Soal & Pembahasan Modul 5 & 6 :
+1. **Cetak Barisan :** Mencetak barisan bilangan bulat dari `n` hingga `m`, dengan ketentuan `n < m` [cite: 7].
+2. **Renang :** Menghitung total jarak yang ditempuh setiap perenang dalam 5 putaran berdasarkan jarak setiap putaran [cite: 9, 10].
+
+#### 📂 Soal Latihan Modul 5 & 6 :
+1. **Cetak Teks :** Mencetak sebuah string sebanyak `n` kali berdasarkan jumlah pencetakan yang dimasukkan [cite: 12].
+2. **Kue :** Menghitung total berat tepung yang dibutuhkan untuk membuat 10 kue berdasarkan kebutuhan tepung setiap jenis kue [cite: 13].
+3. **Perkalian :** Mengalikan setiap bilangan dalam daftar dengan indeksnya, mulai dari indeks 1 hingga `n` [cite: 14].
+4. **Olahraga :** Menghitung total langkah yang diambil setiap orang selama 7 hari [cite: 15].
+5. **Sandi :** Menjumlahkan digit pertama dan digit terakhir dari setiap bilangan bulat yang terdiri dari 4 digit [cite: 16].
+6. **Bidang Persegi :** Menghitung luas (\(s^2\)) dan keliling (\(4s\)) persegi berdasarkan panjang sisinya [cite: 17].
+7. **Koding :** Menghitung rata-rata waktu yang dihabiskan mahasiswa untuk berlatih coding setiap hari [cite: 18].
+8. **Faktorial :** Menghitung nilai faktorial dari suatu bilangan bulat positif `n` [cite: 19].
+9. **Faktor Bilangan :** Membuat program dalam bahasa Go untuk menentukan apakah suatu bilangan merupakan faktor dari bilangan positif `N`, dengan keluaran berupa nilai bilangan dan boolean `true` atau `false` [cite: 20].
+
+#### 📌 Kesimpulan :
+Melalui Modul 5 & 6, mahasiswa mempelajari penggunaan perulangan `for` untuk menyelesaikan berbagai permasalahan algoritma secara sistematis, mulai dari mencetak barisan bilangan hingga melakukan perhitungan matematika dan pengolahan data menggunakan bahasa pemrograman Go.
+
+---
+
 ## 🛠️ Cara Menjalankan Program Go
 
-Pastikan lingkungan pemrogranan Go telah terpasang pada komputer Anda[cite: 2, 8].
+Pastikan lingkungan pemrogranan Go telah terpasang pada komputer Anda [cite: 2, 8].
 
 1. **Menjalankan Kode Program Langsung :**
    ```bash
