@@ -17,6 +17,7 @@ Beberapa materi yang dipelajari dalam repository ini meliputi :
 * Casting / Type Conversion
 * Percabangan
 * Perulangan
+* Bentuk For-Loop
 * Penyelesaian Soal Algoritma dan Pemrograman
 * Konversi Tipe Data
 * Perhitungan Menggunakan Data Input
@@ -36,10 +37,15 @@ Asprak-Algoritma-Program/
 ├── Modul_04/
 │   └── Materi dan latihan Modul 04
 │
+├── Modul_05/
+│   └── Materi dan latihan Modul 05
+│
 ├── Modul_Praktikum/
 │   ├── Praktikum_01
 |   |    └── Tugas Pendahuluan, Tugas Terbimbing, dan Tugas Mandiri Modul Praktikum
-│   └── Praktikum_02
+│   ├── Praktikum_02
+|   |    └── Tugas Pendahuluan, Tugas Terbimbing, dan Tugas Mandiri Modul Praktikum
+│   └── Praktikum_03
 |        └── Tugas Pendahuluan, Tugas Terbimbing, dan Tugas Mandiri Modul Praktikum
 │
 ├── ABOUT_PROJECT.md
