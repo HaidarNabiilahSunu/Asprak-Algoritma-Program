@@ -43,6 +43,9 @@ Asprak-Algoritma-Program/
 ├── Modul_06/
 │   └── Materi dan latihan Modul 06
 │
+├── Modul_07/
+│   └── Materi dan latihan Modul 07
+│
 ├── Modul_Praktikum/
 │   ├── Praktikum_01
 |   |    └── Tugas Pendahuluan, Tugas Terbimbing, dan Tugas Mandiri Modul Praktikum
