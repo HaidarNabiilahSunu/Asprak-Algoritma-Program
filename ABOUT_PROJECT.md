@@ -145,6 +145,46 @@ Melalui Modul 5 & 6, mahasiswa mempelajari penggunaan perulangan `for` untuk men
 
 ---
 
+### 📖 Modul 7 : Latihan Soal Algoritma dan Pemrograman 1
+
+Modul 7 merupakan latihan soal Algoritma dan Pemrograman 1 yang berfokus pada penerapan konsep dasar pemrograman untuk menyelesaikan berbagai permasalahan matematika, konversi waktu, pengolahan data, operasi Boolean, serta penggunaan perulangan dalam bahasa pemrograman Go.
+
+#### Topik Utama :
+* **📐 Perhitungan Geometri :**
+  * Menghitung volume prisma segiempat berdasarkan panjang, lebar, dan tinggi.
+  * Menghitung luas permukaan prisma segiempat dengan menjumlahkan luas seluruh sisinya.
+* **⏱️ Konversi Waktu :**
+  * Mengonversi satuan detik menjadi jam, menit, dan detik.
+  * Menggunakan operasi pembagian integer (`div`) dan modulo (`mod`) untuk memperoleh hasil konversi waktu.
+* **📊 Pengolahan Data Numerik :**
+  * Menghitung rata-rata koordinat X, Y, dan Z dari tiga vektor tiga dimensi.
+  * Menghitung rata-rata berat sejumlah bola berdasarkan data massa jenis dan volume atau berat yang diberikan.
+* **🧮 Operasi Matriks :**
+  * Menghitung determinan matriks berukuran \(2 \times 2\) menggunakan rumus \(D = ad - bc\).
+* **🔘 Operasi Boolean :**
+  * Melakukan operasi logika AND terhadap sejumlah nilai Boolean.
+  * Menentukan hasil operasi berdasarkan seluruh nilai Boolean yang diberikan.
+* **🔁 Perulangan dan Penjumlahan Bilangan :**
+  * Menghitung jumlah seluruh bilangan ganjil di antara dua bilangan bulat positif.
+  * Menerapkan perulangan tanpa menggunakan struktur percabangan `if-then`.
+
+#### 🎯 Contoh Soal & Pembahasan Modul 7 :
+1. **Prisma Segiempat :** Menghitung volume (\(V = p \times l \times t\)) dan luas permukaan prisma segiempat berdasarkan panjang, lebar, dan tinggi.
+2. **Konversi Waktu :** Mengubah waktu dalam satuan detik menjadi jam, menit, dan detik menggunakan operasi `div` dan `mod`.
+3. **Rata-Rata Vektor :** Menghitung nilai rata-rata masing-masing koordinat X, Y, dan Z dari tiga vektor tiga dimensi.
+4. **Determinan Matriks :** Menghitung determinan matriks \(2 \times 2\) menggunakan rumus \(D = ad - bc\).
+5. **Rata-Rata Berat Bola :** Menghitung rata-rata berat sejumlah bola berdasarkan data yang dimasukkan.
+6. **Operasi AND :** Menghasilkan nilai Boolean dari operasi AND terhadap sejumlah nilai Boolean yang diberikan.
+7. **Penjumlahan Bilangan Ganjil :** Menghitung jumlah bilangan ganjil di antara dua batas bilangan bulat positif tanpa menggunakan percabangan `if-then`.
+
+#### 📂 Soal Latihan Modul 7 :
+Modul 7 memuat tujuh soal latihan, yaitu **Prisma Segiempat, Waktu, Vektor, Determinan, Bola, AND, dan Sum Ganjil**. Setiap soal melatih penerapan konsep algoritma, operasi matematika, pengolahan input-output, serta penyusunan instruksi program untuk menghasilkan keluaran sesuai ketentuan soal.
+
+#### 🎯 Kesimpulan :
+Melalui Modul 7, mahasiswa berlatih mengimplementasikan konsep dasar Algoritma dan Pemrograman 1 dalam bahasa Go untuk menyelesaikan permasalahan geometri, konversi waktu, rata-rata data, determinan matriks, operasi Boolean, dan penjumlahan bilangan ganjil.
+
+---
+
 ## 🛠️ Cara Menjalankan Program Go
 
 Pastikan lingkungan pemrogranan Go telah terpasang pada komputer Anda [cite: 2, 8].
