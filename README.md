@@ -55,7 +55,9 @@ Asprak-Algoritma-Program/
 |   |    └── Tugas Pendahuluan, Tugas Terbimbing, dan Tugas Mandiri Modul Praktikum
 │   ├── Praktikum_04
 |   |    └── Tugas Pendahuluan, Tugas Terbimbing, dan Tugas Mandiri Modul Praktikum
-│   └── Praktikum_05
+│   ├── Praktikum_05
+|   |    └── Tugas Pendahuluan, Tugas Terbimbing, dan Tugas Mandiri Modul Praktikum
+│   └── Praktikum_Assessment
 |        └── Tugas Pendahuluan, Tugas Terbimbing, dan Tugas Mandiri Modul Praktikum
 │
 ├── ABOUT_PROJECT.md
