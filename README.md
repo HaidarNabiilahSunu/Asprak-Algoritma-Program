@@ -18,6 +18,8 @@ Beberapa materi yang dipelajari dalam repository ini meliputi :
 * Percabangan
 * Perulangan
 * Bentuk For-Loop
+* Bentuk If-Then
+* Bentuk If-Else
 * Penyelesaian Soal Algoritma dan Pemrograman
 * Konversi Tipe Data
 * Perhitungan Menggunakan Data Input
@@ -45,6 +47,9 @@ Asprak-Algoritma-Program/
 │
 ├── Modul_07/
 │   └── Materi dan latihan Modul 07
+│
+├── Modul_09/
+│   └── Materi dan latihan Modul 09
 │
 ├── Modul_Praktikum/
 │   ├── Praktikum_01
