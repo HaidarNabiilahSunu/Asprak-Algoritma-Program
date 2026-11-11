@@ -185,6 +185,44 @@ Melalui Modul 7, mahasiswa berlatih mengimplementasikan konsep dasar Algoritma d
 
 ---
 
+### 📖 Modul 9 : Percabangan (*If-Then-Else*)
+
+Modul 9 membahas konsep percabangan (*Branching*) dalam Algoritma dan Pemrograman 1, dengan fokus pada penggunaan struktur kontrol `if-then` dan `if-else` untuk menentukan pilihan instruksi berdasarkan kondisi tertentu yang menghasilkan nilai Boolean (`true` / `false`).
+
+#### Topik Utama :
+* **🔀 Paradigma Percabangan (*Branching*) :**
+  * Memahami konsep instruksi bersyarat untuk menentukan tindakan berdasarkan kondisi tertentu.
+  * Menggunakan ekspresi Boolean yang menghasilkan nilai `true` atau `false` sebagai kondisi percabangan.
+  * Memahami hubungan antara kondisi dan aksi yang akan dijalankan apabila persyaratan terpenuhi.
+* **⚖️ Percabangan If-Then :**
+  * Menjalankan sekumpulan instruksi apabila kondisi bernilai `true`.
+  * Menggunakan operator perbandingan (`<`, `>`, `<=`, `>=`, `==`, `!=`) untuk menentukan kondisi.
+  * Menerapkan percabangan untuk melakukan pemeriksaan dan pengolahan nilai.
+* **🔄 Percabangan If-Else :**
+  * Menentukan dua kemungkinan aksi berdasarkan hasil evaluasi kondisi.
+  * Menjalankan aksi pertama apabila kondisi bernilai `true` dan aksi kedua apabila kondisi bernilai `false`.
+  * Menggunakan operator logika (`AND`, `OR`) untuk menggabungkan beberapa kondisi.
+* **💻 Implementasi Percabangan dalam Go :**
+  * Menggunakan struktur `if` dan `if-else` dalam bahasa pemrograman Go.
+  * Menggabungkan kondisi dengan operator perbandingan dan logika.
+  * Mengolah masukan bertipe integer, karakter (`char`), bilangan riil (`float`), dan Boolean.
+
+#### 🎯 Contoh Soal & Pembahasan Modul 9 :
+1. **Nilai Mutlak / Absolut :** Menentukan nilai absolut dari suatu bilangan bulat. Apabila bilangan bernilai negatif, maka nilainya diubah menjadi positif menggunakan percabangan `if-then`.
+2. **Alphabet :** Menentukan apakah karakter yang dimasukkan merupakan huruf alfabet (`A-Z` atau `a-z`) atau bukan menggunakan percabangan `if-else` dan operator logika `AND` serta `OR`.
+
+#### 📂 Soal Latihan Modul 9 :
+1. **Tamasya :** Menghitung jumlah mobil yang diperlukan untuk mengangkut sejumlah \(N\) mahasiswa dengan kapasitas setiap mobil sebanyak 7 orang.
+2. **Diskon Kantin :** Menghitung total belanja setelah memperoleh potongan diskon sebesar 35% apabila mahasiswa sedang mengikuti asesmen CLO berdasarkan nilai Boolean.
+3. **Konsonan :** Menentukan apakah karakter huruf yang dimasukkan merupakan huruf konsonan atau bukan konsonan.
+4. **Tiga & Lima :** Menentukan apakah suatu bilangan merupakan kelipatan 3, kelipatan 5, atau kelipatan keduanya menggunakan percabangan.
+5. **Liga Bola :** Menentukan jumlah gol terbanyak dan tersedikit dari empat tim sepak bola tanpa menggunakan perulangan, dengan membandingkan nilai secara berulang.
+
+#### 🎯 Kesimpulan :
+Melalui Modul 9, mahasiswa mempelajari penggunaan struktur kontrol percabangan `if-then` dan `if-else` untuk mengambil keputusan berdasarkan kondisi tertentu. Materi ini diterapkan dalam berbagai permasalahan, seperti menentukan nilai absolut, memeriksa karakter, menghitung diskon, menentukan kelipatan bilangan, serta membandingkan nilai menggunakan bahasa pemrograman Go.
+
+---
+
 ## 🛠️ Cara Menjalankan Program Go
 
 Pastikan lingkungan pemrogranan Go telah terpasang pada komputer Anda [cite: 2, 8].
