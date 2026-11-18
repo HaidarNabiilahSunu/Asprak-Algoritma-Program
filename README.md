@@ -51,6 +51,9 @@ Asprak-Algoritma-Program/
 ├── Modul_09/
 │   └── Materi dan latihan Modul 09
 │
+├── Modul_10/
+│   └── Materi dan latihan Modul 10
+│
 ├── Modul_Praktikum/
 │   ├── Praktikum_01
 |   |    └── Tugas Pendahuluan, Tugas Terbimbing, dan Tugas Mandiri Modul Praktikum
@@ -61,6 +64,8 @@ Asprak-Algoritma-Program/
 │   ├── Praktikum_04
 |   |    └── Tugas Pendahuluan, Tugas Terbimbing, dan Tugas Mandiri Modul Praktikum
 │   ├── Praktikum_05
+|   |    └── Tugas Pendahuluan, Tugas Terbimbing, dan Tugas Mandiri Modul Praktikum
+|   ├── Praktikum_06
 |   |    └── Tugas Pendahuluan, Tugas Terbimbing, dan Tugas Mandiri Modul Praktikum
 │   └── Praktikum_Assessment
 |        └── Tugas Pendahuluan, Tugas Terbimbing, dan Tugas Mandiri Modul Praktikum
