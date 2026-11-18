@@ -220,6 +220,48 @@ Melalui Modul 9, mahasiswa mempelajari penggunaan struktur kontrol percabangan `
 
 ---
 
+### 📖 Modul 10 : Percabangan (*Else-If*)
+
+Modul 10 membahas pengembangan konsep percabangan (*Branching*) dalam Algoritma dan Pemrograman 1, dengan fokus pada penggunaan struktur kontrol `else-if` untuk menentukan pilihan instruksi berdasarkan beberapa kondisi tertentu yang menghasilkan nilai Boolean (`true` / `false`). Percabangan ini memungkinkan program menjalankan aksi yang berbeda sesuai dengan kondisi yang terpenuhi.
+
+#### Topik Utama :
+
+- **🔀 Paradigma Percabangan (*Branching*) :**
+  - Memahami konsep instruksi bersyarat untuk menentukan tindakan berdasarkan kondisi tertentu.
+  - Menggunakan kondisi yang menghasilkan nilai Boolean (`true` atau `false`).
+  - Memahami hubungan antara kondisi, aksi, dan aksi lain yang dijalankan berdasarkan hasil evaluasi kondisi.
+- **⚖️ Karakteristik Else-If :**
+  - Menjalankan aksi apabila kondisi pertama bernilai `true`.
+  - Menjalankan aksi lain apabila kondisi pertama bernilai `false`.
+  - Menggunakan beberapa kondisi secara berurutan untuk menentukan aksi yang sesuai.
+  - Memahami bahwa hanya satu aksi yang akan dieksekusi berdasarkan kondisi yang terpenuhi.
+- **🔄 Struktur Percabangan Else-If :**
+  - Menggunakan bentuk `if`, `else if`, dan `else` untuk menangani beberapa kemungkinan kondisi.
+  - Mengevaluasi kondisi secara berurutan hingga ditemukan kondisi yang bernilai `true`.
+  - Menjalankan aksi terakhir (`else`) apabila seluruh kondisi sebelumnya bernilai `false`.
+- **💻 Implementasi Else-If dalam Go :**
+  - Menggunakan struktur `if`, `else if`, dan `else` dalam bahasa pemrograman Go.
+  - Menggabungkan kondisi dengan operator perbandingan dan logika.
+  - Mengolah masukan bertipe integer, Boolean, karakter (`rune`), dan bilangan riil (`float64`).
+
+#### 🎯 Contoh Soal & Pembahasan Modul 10 :
+
+1. **Pembuatan KTP :** Menentukan apakah seseorang bisa membuat KTP berdasarkan dua persyaratan, yaitu berusia minimal 17 tahun dan memiliki Kartu Keluarga (KK) menggunakan kondisi Boolean dan operator logika `&&`.
+2. **Vokal atau Konsonan :** Menentukan apakah karakter yang dimasukkan merupakan huruf vokal, konsonan, atau bukan huruf menggunakan percabangan `if-else if` dan pemeriksaan karakter alfabet.
+3. **Urutan Digit Bilangan :** Menentukan apakah empat digit dalam suatu bilangan terurut membesar, terurut mengecil, atau tidak terurut dengan membandingkan setiap digit menggunakan percabangan `if-else if`.
+
+#### 📂 Soal Latihan Modul 10 :
+
+1. **Biaya Pos :** Menghitung biaya pengiriman parsel berdasarkan berat dalam gram, dengan ketentuan biaya Rp10.000 per kilogram, biaya tambahan berdasarkan sisa berat, serta pembebasan biaya sisa berat apabila total berat melebihi 10 kg.
+2. **Nilai Akhir Mata Kuliah (NAM) :** Menentukan nilai mata kuliah berdasarkan nilai akhir (NAM) dengan kategori A, AB, B, BC, C, D, dan E. Latihan ini juga membahas kesalahan penggunaan percabangan serta perbaikan alur program menggunakan `else-if`.
+3. **Faktor Bilangan dan Bilangan Prima :** Menampilkan seluruh faktor dari suatu bilangan bulat, kemudian menentukan apakah bilangan tersebut termasuk bilangan prima berdasarkan jumlah faktor yang dimilikinya.
+
+#### 🎯 Kesimpulan :
+
+Melalui Modul 10, mahasiswa mempelajari penggunaan struktur kontrol percabangan `else-if` untuk menangani beberapa kemungkinan kondisi dalam suatu program. Materi ini diterapkan dalam berbagai permasalahan, seperti menentukan kelayakan pembuatan KTP, mengidentifikasi huruf vokal dan konsonan, memeriksa urutan digit bilangan, menghitung biaya pengiriman, menentukan nilai mata kuliah, serta mencari faktor dan bilangan prima menggunakan bahasa pemrograman Go.
+
+---
+
 ## 🛠️ Cara Menjalankan Program Go
 
 Pastikan lingkungan pemrogranan Go telah terpasang pada komputer Anda [cite: 2, 8].
