@@ -20,6 +20,9 @@ Beberapa materi yang dipelajari dalam repository ini meliputi :
 * Bentuk For-Loop
 * Bentuk If-Then
 * Bentuk If-Else
+* Bentuk While-Loop
+* Bentuk Repeat-Until
+* Bentuk Switch-Case
 * Penyelesaian Soal Algoritma dan Pemrograman
 * Konversi Tipe Data
 * Perhitungan Menggunakan Data Input
