@@ -262,6 +262,49 @@ Melalui Modul 10, mahasiswa mempelajari penggunaan struktur kontrol percabangan 
 
 ---
 
+### 📖 Modul 11 : Percabangan (*Switch-Case*)
+
+Modul 11 membahas konsep percabangan (*Branching*) dalam Algoritma dan Pemrograman 1, dengan fokus pada penggunaan struktur kontrol `switch-case` sebagai alternatif dari `else-if` untuk menentukan pilihan instruksi berdasarkan nilai atau hasil ekspresi tertentu. Struktur ini memungkinkan program menjalankan aksi yang sesuai dengan nilai yang diperoleh tanpa harus menggunakan kondisi Boolean secara langsung.
+
+#### Topik Utama :
+
+- **🔀 Karakteristik Switch-Case :**
+  - Memahami konsep `switch-case` sebagai alternatif penggunaan percabangan `else-if`.
+  - Menggunakan ekspresi berupa operasi tipe data dasar yang menghasilkan nilai selain Boolean.
+  - Memahami komponen utama `switch-case`, yaitu ekspresi, nilai (`case`), dan aksi.
+  - Menggunakan `default` untuk menjalankan aksi apabila tidak terdapat nilai `case` yang sesuai.
+- **⚖️ Struktur Percabangan Switch-Case :**
+  - Menentukan aksi berdasarkan nilai yang dihasilkan oleh suatu ekspresi.
+  - Menggunakan beberapa pilihan `case` untuk menangani berbagai kemungkinan nilai.
+  - Menerapkan `switch` tanpa ekspresi untuk mengevaluasi beberapa kondisi Boolean sebagai alternatif `if-else`.
+- **💻 Implementasi Switch-Case dalam Go :**
+  - Menggunakan struktur `switch`, `case`, dan `default` dalam bahasa pemrograman Go.
+  - Menentukan batas nilai berdasarkan indeks nilai mutu.
+  - Menggabungkan kondisi dengan operator perbandingan dan logika.
+  - Menerapkan `switch-case` untuk menentukan operasi aritmatika, seperti penjumlahan, pengurangan, perkalian, dan pembagian.
+
+#### 🎯 Contoh Soal & Pembahasan Modul 11 :
+
+1. **Konversi Waktu 24 Jam ke 12 Jam :** Mengubah format waktu dari sistem 24 jam menjadi sistem 12 jam dengan menentukan nilai jam serta keterangan `AM` atau `PM` menggunakan percabangan `switch`.
+2. **Tanaman Karnivora :** Menentukan apakah suatu tanaman termasuk tanaman karnivora atau bukan, serta mengidentifikasi apakah tanaman tersebut asli Indonesia berdasarkan nama tanaman yang dimasukkan.
+3. **Tarif Parkir Kendaraan :** Menghitung tarif parkir berdasarkan jenis kendaraan (motor, mobil, atau truk) dan durasi parkir, dengan biaya yang berbeda sesuai kategori kendaraan dan lama parkir.
+
+#### 📂 Soal Latihan Modul 11 :
+
+1. **Kelayakan Air Minum (pH) :** Menentukan apakah air layak untuk diminum berdasarkan kadar pH yang dimasukkan. Air dinyatakan layak apabila nilai pH berada pada rentang 6,5 hingga 8,6, tidak layak apabila berada di luar rentang tersebut, serta menampilkan pesan apabila nilai pH tidak valid (di luar rentang 0–14).
+2. **Tarif Parkir Kendaraan :** Menghitung total biaya parkir berdasarkan jenis kendaraan dan durasi parkir. Tarif setiap jam adalah Rp2.000 untuk motor, Rp5.000 untuk mobil, dan Rp8.000 untuk truk. Durasi parkir kurang dari satu jam tetap dihitung sebagai satu jam.
+3. **Kategori Bilangan dan Operasi Aritmatika :** Mengidentifikasi kategori bilangan berdasarkan karakteristiknya, kemudian melakukan operasi matematika yang sesuai, yaitu:
+   - **Bilangan Ganjil :** Menghitung penjumlahan bilangan dengan bilangan berikutnya.
+   - **Bilangan Genap :** Menghitung perkalian bilangan dengan bilangan berikutnya.
+   - **Bilangan Kelipatan 5 :** Menghitung kuadrat dari bilangan yang dimasukkan.
+   - **Bilangan Kelipatan 10 :** Membagi bilangan yang dimasukkan dengan 10.
+
+#### 🎯 Kesimpulan :
+
+Melalui Modul 11, mahasiswa mempelajari penggunaan struktur kontrol percabangan `switch-case` sebagai alternatif dari `else-if` untuk menentukan aksi berdasarkan nilai ekspresi atau kondisi tertentu. Materi ini diterapkan dalam berbagai permasalahan, seperti konversi waktu, identifikasi tanaman karnivora, perhitungan tarif parkir, pemeriksaan kelayakan air minum berdasarkan pH, serta pengelompokan bilangan dan penerapan operasi aritmatika menggunakan bahasa pemrograman Go.
+
+---
+
 ## 🛠️ Cara Menjalankan Program Go
 
 Pastikan lingkungan pemrogranan Go telah terpasang pada komputer Anda [cite: 2, 8].
